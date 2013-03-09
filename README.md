@@ -1,4 +1,4 @@
-# ctags Puppet Module for Boxen
+# Ctags Puppet Module for Boxen
 More info at [http://ctags.sourceforge.net/](http://ctags.sourceforge.net/). 
 
 ## Usage
