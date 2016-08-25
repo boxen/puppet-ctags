@@ -1,17 +1,7 @@
 # Ctags Puppet Module for Boxen
-More info at [http://ctags.sourceforge.net/](http://ctags.sourceforge.net/). 
 
-[![Build Status](https://travis-ci.org/boxen/puppet-ctags.png)](https://travis-ci.org/boxen/puppet-ctags)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include ctags
-```
-
-## Required Puppet Modules
-
-* `boxen`
-* `homebrew`
-* `stdlib`
-
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
